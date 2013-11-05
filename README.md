@@ -1,0 +1,4 @@
+safety-box
+==========
+
+Safe!
